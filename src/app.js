@@ -9,6 +9,8 @@ app.use(express.json())
 app.use('/api/alumnos', alumnosRouter)
 app.use('/api/viandas', viandasRouter)
 app.use('/api/pedidos', pedidosRouter)
+app.use('/api/pedidos/search',pedidosRouter)
+
 
 app.listen(PORT, () => {
     console.log(`Solución del parcial en el puerto ${PORT}`)
