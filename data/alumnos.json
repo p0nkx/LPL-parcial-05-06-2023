@@ -1,0 +1,30 @@
+[    
+    {
+        "dni": 39911147,
+        "nombre": "FLORENCIA",
+        "habilitado": true,
+        "celiaco": false,
+        "edad": 23
+    },    
+    {
+        "dni": 37535032,
+        "nombre": "CHRISTIAN",
+        "habilitado": true,
+        "celiaco": true,
+        "edad": 28
+    },
+    {
+        "dni": 33199201,
+        "nombre": "ROMINA",
+        "habilitado": false,
+        "celiaco": true,
+        "edad": 28
+    },    
+    {
+        "dni": 34701204,
+        "nombre": "JUAN",
+        "habilitado": true,
+        "celiaco": true,
+        "edad": 27
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "fecha": "2023-06-05",
+        "alumno":{
+            "dni": 39911147,
+            "nombre": "FLORENCIA",
+            "celiaco": false,
+            "edad": 23
+        },
+        "vianda": {
+            "codigo": "VENOP",
+            "tipo": "EMPANADAS",
+            "aptoCeliaco": false,
+            "descripcion": "EMPANADAS NO APTO CELIACO"
+        }
+    },
+    {
+        "id": 2,
+        "fecha": "2023-06-05",
+        "alumno": {
+            "dni": 34701204,
+            "nombre": "JUAN",
+            "celiaco": true,
+            "edad": 27
+    },
+        "vianda": {
+            "codigo": "VPAAP",
+            "tipo": "PASTA",
+            "aptoCeliaco": true,
+            "descripcion": "PASTA APTO CELIACO"
+        }
+    }
+]

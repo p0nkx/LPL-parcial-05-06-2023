@@ -1,0 +1,58 @@
+[
+    {
+        "codigo": "VARTA",
+        "tipo": "TARTA",
+        "aptoCeliaco": false,
+        "stock": 11,
+        "descripcion": "TARTA JAMON Y QUESO"
+    },  
+    {
+        "codigo": "VPZAP",
+        "tipo": "PIZZA",
+        "aptoCeliaco": true,
+        "stock": 0,
+        "descripcion": "PIZZA APTO CELICO"
+    },  
+    {
+        "codigo": "VPZNA",
+        "tipo": "PIZZA",
+        "aptoCeliaco": false,
+        "stock": 98,
+        "descripcion": "PIZZA NO APTO CELIACO"
+    },  
+    {
+        "codigo": "VEMAP",
+        "tipo": "EMPANADAS",
+        "aptoCeliaco": true,
+        "stock": 75,
+        "descripcion": "EMPANADAS APTO CELIACO"
+    },  
+    {
+        "codigo": "VENOP",
+        "tipo": "EMPANADAS",
+        "aptoCeliaco": false,
+        "stock": 35,
+        "descripcion": "EMPANADAS NO APTO CELIACO"
+    },  
+    {
+        "codigo": "VPOLO",
+        "tipo": "POLLO",
+        "aptoCeliaco": true,
+        "stock": 0,
+        "descripcion": "POLLO"
+    },  
+    {
+        "codigo": "VPAAP",
+        "tipo": "PASTA",
+        "aptoCeliaco": true,
+        "stock": 14,
+        "descripcion": "PASTA APTO CELIACO"
+    },  
+    {
+        "codigo": "VPANP",
+        "tipo": "PASTA",
+        "aptoCeliaco": false,
+        "stock": 0,
+        "descripcion": "PASTA NO APTO CELIACO"
+    }
+]
